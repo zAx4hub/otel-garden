@@ -1,0 +1,12 @@
+{
+  "items": [
+    {
+      "text": "Opinionated OTel demo + SDKs"
+    },
+    {
+      "text": "zAx4hub fixture"
+    }
+  ],
+  "threshold": 0.25,
+  "baseline": "open source"
+}

@@ -1,0 +1,7 @@
+Otel Garden — 60s demo
+
+Pain: Opinionated OTel demo + SDKs
+
+npm install && npm test && npm run demo
+
+Credits: zAx4hub
